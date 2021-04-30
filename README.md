@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with AWS
 - 💬 Ask me about Anything
 - 📫 How to reach me: everydaydanish@gmail.com
-- 😄 Pronouns: He
+- 😄 Pronouns: He/him
 - ⚡ Fun fact: I am really good at video games 
 
