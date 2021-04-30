@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Anything
 - 📫 How to reach me: everydaydanish@gmail.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: I am really good at video games
--->
+- ⚡ Fun fact: I am really good at video games 
+
