@@ -3,8 +3,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on python
-- 🌱 I’m currently learning AWS
+- 🔭 I’m currently working as a Cloud Engineer
+- 🌱 I’m currently learning about Cloud Technologies
 - 👯 I’m looking to collaborate on python
 - 🤔 I’m looking for help with AWS
 - 💬 Ask me about Anything
